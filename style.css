@@ -1,0 +1,61 @@
+.gallery img{
+    width: 100%
+}
+
+h3{
+    font-family: impact, cursive;
+    text-align: left;
+    font-size: 40px;
+    color: red;
+    font-style: oblique;
+}
+h4{
+    font-family: impact, monospace;
+    text-align: inherit;
+    font-size: 20px;
+    color: cadetblue;
+    font-style:normal;
+        
+}
+h1{
+    font-family: impact, monospace;
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+    font-style:initial;
+}
+h2{
+    font-family: fantasy;
+    text-align: left;
+    font font-size: 40px;
+    color: deepskyblue;
+    font-style: italic;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cadetblue;
+    padding-top: 15px;
+}
+
+#menu a{
+    color: aliceblue;
+    font-family: cupcake, sans-serif;
+    font-size: 18px;
+    text-decoration:  none;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    
+    color: dimgrey
+}
+
+.paragraph{
+    font-size: 12px;
+}
+
+
